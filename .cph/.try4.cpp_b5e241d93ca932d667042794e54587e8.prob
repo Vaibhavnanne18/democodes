@@ -1,0 +1,1 @@
+{"name":"Local: try4","url":"d:\\C++\\try4.cpp","tests":[{"id":1661276242492,"input":"7 4\n1 2\n1 3\n3 4\n4 5\n2 6\n2 7","output":"192"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\try4.cpp","group":"local","local":true}
